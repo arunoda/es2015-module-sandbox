@@ -1,3 +1,5 @@
-const name = "Arunoda Susiripala";
-
-export default name;
+export default class Human {
+  printMe() {
+    console.log('I am a Human');
+  }
+}
