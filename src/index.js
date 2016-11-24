@@ -1,4 +1,4 @@
-import { Human, name } from './Human';
+import Human, { name } from './Human';
 
 const me = new Human();
 me.printMe();
